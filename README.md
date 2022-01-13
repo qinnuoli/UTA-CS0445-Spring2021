@@ -6,8 +6,8 @@
 
 **Location: Zoom / CL 226**
 
-| Date | Topic | Recording |
-| ---- | ----- | --------- |
-|      |       |           |
-|      |       |           |
-|      |       |           |
+|  Date  | Topic | Recording |
+|  ----  | ----- | --------- |
+| Jan 13 | Lab 0 |           |
+|        |       |           |
+|        |       |           |
