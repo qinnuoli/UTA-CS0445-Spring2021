@@ -6,8 +6,12 @@
 
 **Location: Zoom / CL 226**
 
-|  Date  | Topic | Recording |
-|  ----  | ----- | --------- |
-| Jan 13 | Lab 0 |           |
-|        |       |           |
-|        |       |           |
+**Slides: See slides folder in the repository**
+
+**Recordings: Accessible in Shared Google Drive Folder**
+
+|  Date  |          Topic          |
+|  ----  | ----------------------- |
+| Jan 13 | Lab 0                   |
+| Jan 20 | Lab 1 & Proj 1(preview) |
+|        |                         |
