@@ -10,8 +10,11 @@
 
 **Recordings: Accessible in Shared Google Drive Folder**
 
-|  Date  |          Topic          |
-|  ----  | ----------------------- |
-| Jan 13 | Lab 0                   |
-| Jan 20 | Lab 1 & Proj 1(preview) |
-| Jan 27 | Lab 2 				   |
+|  Date  |           Topic           | Working Session |
+|  ----  | --------------------------| --------------- |
+| Jan 13 | Welcome & Env Set Up	     |      Lab 0      |
+| Jan 20 | Composition, Inheritance, |      Lab 1      |
+|        | Polymorphism, Interfaces, |				   |
+|        | and Abstract Classes      |				   |
+| Jan 27 | Set Operation, Generics   |      Lab 2      |
+| Feb 03 | Node & Linked List Ops    |      Lab 3      |
