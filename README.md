@@ -28,3 +28,7 @@
 | Mar 10 |            | (Spring Break)               |                 |
 | Mar 17 |      7     | Circular Doubly Linked List  |      Lab 6      |
 | Mar 24 |      8     | Graph with 2D Array          |      Lab 7      |
+| Mar 31 |      9     | Implementing Stack with      |      Lab 8      |
+|        |            | Linked List                  |                 |
+| Apr 7  |     10     | Hashing Function with        |      Lab 9      |
+|        |            | Horner's Method              |                 |
