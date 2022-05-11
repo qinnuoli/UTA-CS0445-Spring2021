@@ -14,23 +14,17 @@
 |  ----  | ---------- | ---------------------------- | --------------- |
 | Jan 13 |      0     | Welcome & Env Set Up	       |      Lab 0      |
 | Jan 20 |      1     | Composition, Inheritance,    |      Lab 1      |
-|        |      2     | Polymorphism, Interfaces,    |				         |
-|        |            | and Abstract Classes         | 		             |
+|        |      2     | Polymorphism, Interfaces, and Abstract Classes | |
 | Jan 27 |      3     | Set Operation, Generics      |      Lab 2      |
 | Feb 03 |      4     | Node & Linked List Ops       |      Lab 3      |
-| Feb 10 |      5     | Recursion, Copy Constructor, |      Lab 4      |
-|        |            | Private Helther Methods      |                 |
+| Feb 10 |      5     | Recursion, Copy Constructor, Private Helper Methods |      Lab 4      |
 | Feb 17 |      6     | Tree Set, Tree Map           |      Lab 5      |
 | Feb 24 |            | Open Lab                     |                 |
 | Mar 03 |            | Open Lab                     |                 |
 | Mar 10 |            | (Spring Break)               |                 |
 | Mar 17 |      7     | Circular Doubly Linked List  |      Lab 6      |
 | Mar 24 |      8     | Graph with 2D Array          |      Lab 7      |
-| Mar 31 |      9     | Implementing Stack with      |      Lab 8      |
-|        |            | Linked List                  |                 |
-| Apr 7  |     10     | Hashing Function with        |      Lab 9      |
-|        |            | Horner's Method              |                 |
-| Apr 14 |     11     | Open Addressing and Close    |    Project 9    |
-|        |            | Addressing in Hashing;       |                 |
-|        |            | Interface Implementation     |                 |
+| Mar 31 |      9     | Implementing Stack with Linked List |      Lab 8      |
+| Apr 7  |     10     | Hashing Function with Horner's Method |      Lab 9      |
+| Apr 14 |     11     | Open Addressing and Close Addressing in Hashing; Interface Implementation |    Project 9    |
 | Apr 21 |            | Open Lab                     |                 |
